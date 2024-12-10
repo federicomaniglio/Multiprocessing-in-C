@@ -1,0 +1,10 @@
+/home/federicomaniglio/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/federicomaniglio/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S "/home/federicomaniglio/Scrivania/TPSIT Quarta/Linguaggio C/Basi Multithreading in C/Pipe con stringhe" -B "/home/federicomaniglio/Scrivania/TPSIT Quarta/Linguaggio C/Basi Multithreading in C/Pipe con stringhe/cmake-build-debug"
+-- The C compiler identification is GNU 14.2.1
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/federicomaniglio/Scrivania/TPSIT Quarta/Linguaggio C/Basi Multithreading in C/Pipe con stringhe/cmake-build-debug

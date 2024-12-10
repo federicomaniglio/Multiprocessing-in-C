@@ -1,0 +1,3 @@
+/home/federicomaniglio/Scrivania/TPSIT Quarta/Linguaggio C/Basi Multithreading in C/Pipe/cmake-build-debug/CMakeFiles/Pipe.dir
+/home/federicomaniglio/Scrivania/TPSIT Quarta/Linguaggio C/Basi Multithreading in C/Pipe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/federicomaniglio/Scrivania/TPSIT Quarta/Linguaggio C/Basi Multithreading in C/Pipe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
